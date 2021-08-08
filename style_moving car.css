@@ -1,0 +1,28 @@
+#back{
+    background:url(side.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 480px;
+}
+#road{
+    background: url(road.jpg);
+}
+#img{
+    width: 150px;
+}
+#btn{
+    text-align: center;
+    background-color: gold;
+    font-size: 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+#dbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+
+}
